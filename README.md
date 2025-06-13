@@ -1,7 +1,10 @@
 🎉 MacJunkCleaner
 🌟 概述 / Overview
+
 MacJunkCleaner 是一个用于清理 macOS 系统垃圾文件的工具，适用于 Windows 系统。它可以删除 macOS 在外部存储设备（如 U 盘）上生成的常见垃圾文件和文件夹，例如 .DS_Store 和 .Trashes。
+
 MacJunkCleaner is a tool for cleaning macOS junk files, designed for Windows systems. It removes common macOS-generated junk files and folders (e.g., .DS_Store, .Trashes) from external storage devices like USB drives.
+
 🚀 功能 / Features
 
 文件清理 / File Cleanup: 🗑️ 删除 .DS_Store、. 开头文件等 macOS 垃圾文件。
