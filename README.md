@@ -88,14 +88,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 贡献 / Contributing
 欢迎提交问题或拉取请求！请先阅读 CONTRIBUTING.md（待创建）。
 Contributions are welcome! Please read CONTRIBUTING.md (to be created) before submitting issues or pull requests.
+
 联系 / Contact
 
-GitHub: 你的用户名
-
-邮箱 / Email: [你的邮箱]
-
-GitHub: Your Username
-
-Email: [Your Email]
-
+GitHub: ScorpioDai
 
