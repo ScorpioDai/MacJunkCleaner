@@ -75,7 +75,5 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## 📧 联系 / Contact
 - GitHub: [ScorpioDai](https://github.com/ScorpioDai)
-- 邮箱 / Email: [your_email@example.com]（可选）
 
 - GitHub: [ScorpioDai](https://github.com/ScorpioDai)
-- Email: [your_email@example.com] (optional)
