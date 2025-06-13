@@ -75,5 +75,3 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before
 
 ## 📧 联系 / Contact
 - GitHub: [ScorpioDai](https://github.com/ScorpioDai)
-
-- GitHub: [ScorpioDai](https://github.com/ScorpioDai)
